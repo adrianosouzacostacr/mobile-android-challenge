@@ -1,6 +1,6 @@
 ## Consulta Remedios Mobile Challenge
 
-O teste consiste em construir uma aplicação nativa android de um pseudo ecommerce de games.
+O teste consiste em construir uma aplicação nativa Android de um pseudo ecommerce de games.
 
 ### Recursos
 - Siga o layout: [Layout Android](https://xd.adobe.com/spec/08671ee9-a138-4eda-4ac3-58128100283a-7e56/)
