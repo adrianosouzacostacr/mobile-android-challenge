@@ -12,8 +12,8 @@ O teste consiste em construir uma aplicação nativa Android de um pseudo ecomme
 - A lista de jogos deve ser carregada automaticamente ao entrar no aplicativo, jogos devem vir da API
 - Ao clicar em algum item da lista, ir para tela de detalhes
 - O carrinho de compra deve exibir todos os itens adicionados.
-- Cada produto adicionado no carrinho, soma R$:10,00 ao frete do produto
-- O frete é grátis para compras acima de R$:250,00
+- Cada produto adicionado no carrinho, soma R$:10,00 ao frete total.
+- O frete deve se tornar grátis quando a soma de todos os produtos do carrinho for acima de R$:250,00.
 
 ### O que iremos avaliar...
 - Funcionamento do aplicativo(ele não pode quebrar)
